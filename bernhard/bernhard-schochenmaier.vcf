@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schochenmaier;Bernhard;;;
+FN:Bernhard Schochenmaier
+ORG:CAIPEX
+TITLE:Gründer & CTO
+TEL;TYPE=CELL,VOICE:+4917684119684
+EMAIL;TYPE=WORK,INTERNET:b.schochenmaier@caipex.de
+URL:https://www.caipex.de/bernhard
+END:VCARD

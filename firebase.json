@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "site": "caipex-website",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "run": {
+          "serviceId": "caipex-website",
+          "region": "europe-west3"
+        }
+      }
+    ]
+  }
+}
